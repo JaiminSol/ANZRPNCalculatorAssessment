@@ -14,7 +14,7 @@
 
 # Project Dependecies are managed by Maven
 
-## Compile, Test, Run And Packaging using Maven 
+## Compile, Test, Run and Packaging using Maven 
 
 - Compile: `mvn compile`
 
