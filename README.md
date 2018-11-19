@@ -12,7 +12,7 @@
  
 - `sqrt`: Solution performs a square root on the top item from the stack.
 
-- Project Dependecies are managed by Maven
+# Project Dependecies are managed by Maven
 
 ## Compile, Test, Run And Packaging using Maven 
 
@@ -23,3 +23,4 @@
 - Run (Run the program directly using maven instead of jar using mojo plugin): `mvn exec:java`
 
 - Packaging: `mvn package`
+
