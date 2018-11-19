@@ -23,4 +23,3 @@
 - Run (Run the program directly using maven instead of jar using mojo plugin): `mvn exec:java`
 
 - Packaging: `mvn package`
-
